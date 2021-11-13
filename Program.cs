@@ -8,7 +8,7 @@ namespace Problem3_LAWAAN
 
     public static class Program 
     {
-        public static void Main() 
+        public static void Main(string[] args) 
         {
            Console.WriteLine(" Welcome to Employee Time Keeping System");
            
